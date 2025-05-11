@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // experimental: { appDir: true }, ←この行をまるごと削除またはコメントアウト
+  // 不要な experimental 設定は削除
 };
 
 export default nextConfig;
